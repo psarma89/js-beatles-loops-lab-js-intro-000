@@ -24,3 +24,5 @@ function iLoveTheBeatles(n){
   } while (n != 17 && n >0);
   return newArray
 }
+
+console.console.log(iLoveTheBeatles(17));
