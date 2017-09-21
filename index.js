@@ -24,4 +24,4 @@ function iLoveTheBeatles(n){
   return newArray
 }
 
-console.log(iLoveTheBeatles(17));
+//console.log(iLoveTheBeatles(17));
